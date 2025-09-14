@@ -1,0 +1,1022 @@
+[
+  {
+    "2025-10-01": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Neh",
+          "capitulo": 2,
+          "versiculo_inicio": "1",
+          "versiculo_final": "8",
+          "frase": "Si le parece bien al rey, envíame a Judá. Y el rey me concedió lo que yo había pedido."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 136,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Que se me pegue la lengua al paladar si no me acuerdo de ti."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 9,
+          "versiculo_inicio": "57",
+          "versiculo_final": "62",
+          "frase": "Te seguiré a donde vayas."
+        }
+      ],
+      "santo_celebracion": "Santa Teresa del Niño Jesús, virgen y doctora de la Iglesia",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-02": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Ex",
+          "capitulo": 23,
+          "versiculo_inicio": "20",
+          "versiculo_final": "23a",
+          "frase": "Voy a enviar un ángel por delante de ti."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 90,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El Señor encargará a sus ángeles que te guarden en tus caminos."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 18,
+          "versiculo_inicio": "1",
+          "versiculo_final": "5",
+          "frase": "Sus ángeles están viendo siempre el rostro de mi Padre celestial."
+        }
+      ],
+      "santo_celebracion": "Los Santos Ángeles Custodios",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-03": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Bar",
+          "capitulo": 1,
+          "versiculo_inicio": "15",
+          "versiculo_final": "22",
+          "frase": "No obedecimos la voz del Señor."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 78,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Sálvanos, Señor, por el honor de tu nombre."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 10,
+          "versiculo_inicio": "13",
+          "versiculo_final": "16",
+          "frase": "El que me rechaza a mí rechaza al que me ha enviado."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-04": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Bar",
+          "capitulo": 4,
+          "versiculo_inicio": "5",
+          "versiculo_final": "12",
+          "frase": "El que os castigó, os traerá el gozo eterno."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 68,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El Señor escucha a los pobres."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 10,
+          "versiculo_inicio": "17",
+          "versiculo_final": "24",
+          "frase": "Estad alegres de que vuestros nombres estén inscritos en el cielo."
+        }
+      ],
+      "santo_celebracion": "San Francisco de Asís",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-05": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 5,
+          "versiculo_inicio": "1",
+          "versiculo_final": "7",
+          "frase": "La viña del Señor de los ejércitos es la casa de Israel."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 79,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "La viña del Señor es la casa de Israel."
+        },
+        {
+          "libro": "Flp",
+          "capitulo": 4,
+          "versiculo_inicio": "6",
+          "versiculo_final": "9",
+          "frase": "Practicad esto y el Dios de la paz estará con vosotros."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 21,
+          "versiculo_inicio": "33",
+          "versiculo_final": "43",
+          "frase": "Arrendará la viña a otros labradores."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-06": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Jon",
+          "capitulo": 1,
+          "versiculo_inicio": "1",
+          "versiculo_final": "2,1.11",
+          "frase": "Jonás sale de la ballena por mandato del Señor."
+        },
+        {
+          "libro": "Jon",
+          "capitulo": 2,
+          "versiculo_inicio": "3",
+          "versiculo_final": "5.8",
+          "frase": "Sacaste mi vida de la fosa."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 10,
+          "versiculo_inicio": "25",
+          "versiculo_final": "37",
+          "frase": "¿Quién es mi prójimo?"
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-07": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Jon",
+          "capitulo": 3,
+          "versiculo_inicio": "1",
+          "versiculo_final": "10",
+          "frase": "Los ninivitas se convirtieron de su mala vida."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 129,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Si llevas cuenta de los delitos, Señor, ¿quién podrá resistir?"
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 10,
+          "versiculo_inicio": "38",
+          "versiculo_final": "42",
+          "frase": "Marta lo recibió en su casa. María ha escogido la parte mejor."
+        }
+      ],
+      "santo_celebracion": "Nuestra Señora la Virgen del Rosario",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-08": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Jon",
+          "capitulo": 4,
+          "versiculo_inicio": "1",
+          "versiculo_final": "11",
+          "frase": "Tú tienes compasión de una planta…¿y yo no voy a tener piedad de Nínive?"
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 85,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Tú, Señor, eres bueno y clemente."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 11,
+          "versiculo_inicio": "1",
+          "versiculo_final": "4",
+          "frase": "Señor, enséñanos a orar."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-09": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Mal",
+          "capitulo": 3,
+          "versiculo_inicio": "13",
+          "versiculo_final": "20a",
+          "frase": "Me compadeceré de ellos como un padre se compadece de su hijo."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 1,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Dichoso el hombre que ha puesto su confianza en el Señor."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 11,
+          "versiculo_inicio": "5",
+          "versiculo_final": "13",
+          "frase": "Pedid y se os dará, buscad y hallaréis."
+        }
+      ],
+      "santo_celebracion": "Santos Dionisio y compañeros mártires / San Juan Leonardi, presbítero",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-10": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Jl",
+          "capitulo": 1,
+          "versiculo_inicio": "13",
+          "versiculo_final": "15",
+          "frase": "Ayunad, convoca la asamblea, congrega a los ancianos."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 9,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El Señor juzga al mundo con justicia."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 11,
+          "versiculo_inicio": "15",
+          "versiculo_final": "26",
+          "frase": "El que no está conmigo está contra mí."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-11": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Jl",
+          "capitulo": 4,
+          "versiculo_inicio": "12",
+          "versiculo_final": "21",
+          "frase": "Sabed que yo soy el Señor, vuestro Dios."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 96,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Alegraos, justos, con el Señor."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 11,
+          "versiculo_inicio": "27",
+          "versiculo_final": "28",
+          "frase": "Dichoso el vientre que te llevó. Mejor: Dichosos los que escuchan la palabra de Dios."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-12": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 25,
+          "versiculo_inicio": "6",
+          "versiculo_final": "10a",
+          "frase": "El Señor preparará un festín y enjugará las lágrimas."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 22,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Habitaré en la casa del Señor por años sin término."
+        },
+        {
+          "libro": "Flp",
+          "capitulo": 4,
+          "versiculo_inicio": "12",
+          "versiculo_final": "14.19-20",
+          "frase": "Todo lo puedo en aquel que me conforta."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 22,
+          "versiculo_inicio": "1",
+          "versiculo_final": "14",
+          "frase": "A todos los que encontréis, convidadlos a la boda."
+        }
+      ],
+      "santo_celebracion": "Nuestra Señora del Pilar",
+      "evento_especial": true,
+      "detalle_evento_especial": "Fiesta de la Virgen del Pilar, patrona de la Hispanidad."
+    }
+  },
+  {
+    "2025-10-13": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 1,
+          "versiculo_inicio": "1",
+          "versiculo_final": "7",
+          "frase": "Por Jesucristo hemos recibido la gracia y el apostolado."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 97,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El Señor da a conocer su victoria."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 11,
+          "versiculo_inicio": "29",
+          "versiculo_final": "32",
+          "frase": "Aquí hay uno que es mayor que Salomón."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-14": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 1,
+          "versiculo_inicio": "16",
+          "versiculo_final": "25",
+          "frase": "A los hombres se les hizo visible lo invisible de Dios."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 18,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El cielo proclama la gloria de Dios."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 11,
+          "versiculo_inicio": "37",
+          "versiculo_final": "41",
+          "frase": "Dad limosna y todo quedará limpio para vosotros."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-15": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 2,
+          "versiculo_inicio": "1",
+          "versiculo_final": "11",
+          "frase": "Dios pagará a cada uno según sus obras."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 61,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Señor, tú pagarás a cada uno según sus obras."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 11,
+          "versiculo_inicio": "42",
+          "versiculo_final": "46",
+          "frase": "¡Ay de vosotros, que imponéis a los hombres cargas que no soportáis!"
+        }
+      ],
+      "santo_celebracion": "Santa Teresa de Jesús, virgen y doctora de la Iglesia",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-16": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 3,
+          "versiculo_inicio": "21",
+          "versiculo_final": "30",
+          "frase": "El hombre es justificado por la fe, sin obras de la ley."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 129,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Del Señor viene la misericordia y la redención copiosa."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 11,
+          "versiculo_inicio": "47",
+          "versiculo_final": "54",
+          "frase": "La sangre de los profetas será pedida a esta generación."
+        }
+      ],
+      "santo_celebracion": "Santa Eduviges, religiosa / Santa Margarita María de Alacoque, virgen",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-17": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "rojo",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 4,
+          "versiculo_inicio": "1",
+          "versiculo_final": "8",
+          "frase": "Creyó Abraham a Dios, y eso le valió para ser justificado."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 31,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Tú eres mi refugio, Señor, me rodeas de cantos de liberación."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 12,
+          "versiculo_inicio": "1",
+          "versiculo_final": "7",
+          "frase": "Hasta los cabellos de vuestra cabeza están contados."
+        }
+      ],
+      "santo_celebracion": "San Ignacio de Antioquía, obispo y mártir",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-18": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "rojo",
+      "lecturas": [
+        {
+          "libro": "2Tim",
+          "capitulo": 4,
+          "versiculo_inicio": "10-17b",
+          "versiculo_final": "10-17b",
+          "frase": "Solo Lucas está conmigo."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 144,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Tus amigos, Señor, proclamen la gloria de tu reinado."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 10,
+          "versiculo_inicio": "1",
+          "versiculo_final": "9",
+          "frase": "La mies es abundante y los obreros pocos."
+        }
+      ],
+      "santo_celebracion": "San Lucas, evangelista",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-19": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 53,
+          "versiculo_inicio": "10",
+          "versiculo_final": "11",
+          "frase": "El Señor quiso triturarlo con el sufrimiento. Cuando entregue su vida como expiación, verá descendencia, prolongará sus años."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 32,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Que tu misericordia, Señor, venga sobre nosotros, como lo esperamos de ti."
+        },
+        {
+          "libro": "Heb",
+          "capitulo": 4,
+          "versiculo_inicio": "14",
+          "versiculo_final": "16",
+          "frase": "Acerquémonos con seguridad al trono de la gracia."
+        },
+        {
+          "libro": "Mc",
+          "capitulo": 10,
+          "versiculo_inicio": "35",
+          "versiculo_final": "45",
+          "frase": "El Hijo del Hombre no ha venido a ser servido, sino a servir y dar su vida como rescate por muchos."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": true,
+      "detalle_evento_especial": "Jornada Mundial de las Misiones (DOMUND)."
+    }
+  },
+  {
+    "2025-10-20": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 4,
+          "versiculo_inicio": "20",
+          "versiculo_final": "25",
+          "frase": "Está escrito también para nosotros a quienes ha de ser tenida en cuenta la justicia."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 98,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El Señor revela a las naciones su justicia."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 12,
+          "versiculo_inicio": "13",
+          "versiculo_final": "21",
+          "frase": "Insensato, esta noche te van a reclamar el alma."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-21": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 5,
+          "versiculo_inicio": "12",
+          "versiculo_final": "21",
+          "frase": "Donde abundó el pecado, sobreabundó la gracia."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 39,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Aquí estoy, Señor, para hacer tu voluntad."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 12,
+          "versiculo_inicio": "35",
+          "versiculo_final": "38",
+          "frase": "Dichosos los criados a quienes el Señor, al llegar, los encuentra en vela."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-22": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 6,
+          "versiculo_inicio": "12",
+          "versiculo_final": "18",
+          "frase": "Presentaos a Dios como hombres que han vuelto a la vida."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 123,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Nuestro auxilio es el nombre del Señor."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 12,
+          "versiculo_inicio": "39",
+          "versiculo_final": "48",
+          "frase": "Al que mucho se le dio, mucho se le exigirá."
+        }
+      ],
+      "santo_celebracion": "San Juan Pablo II, papa",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-23": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 6,
+          "versiculo_inicio": "19",
+          "versiculo_final": "23",
+          "frase": "Ahora estáis libres del pecado y hechos siervos de Dios."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 1,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Dichoso el hombre que ha puesto su confianza en el Señor."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 12,
+          "versiculo_inicio": "49",
+          "versiculo_final": "53",
+          "frase": "No he venido a traer paz, sino división."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-24": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "rojo",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 7,
+          "versiculo_inicio": "18",
+          "versiculo_final": "25a",
+          "frase": "¿Quién me librará de este cuerpo que me lleva a la muerte?"
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 118,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Enséñame, Señor, tus leyes."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 12,
+          "versiculo_inicio": "54",
+          "versiculo_final": "59",
+          "frase": "¿Cómo no sabéis interpretar el tiempo presente?"
+        }
+      ],
+      "santo_celebracion": "San Antonio María Claret, obispo",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-25": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 8,
+          "versiculo_inicio": "1",
+          "versiculo_final": "11",
+          "frase": "El Espíritu del que resucitó a Jesús de entre los muertos habita en vosotros."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 23,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El Señor es mi pastor, nada me falta."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 13,
+          "versiculo_inicio": "1",
+          "versiculo_final": "9",
+          "frase": "Si no os convertís, todos pereceréis de la misma manera."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-26": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Jr",
+          "capitulo": 31,
+          "versiculo_inicio": "7",
+          "versiculo_final": "9",
+          "frase": "Mira que yo los traeré del país del norte y los reuniré de los confines de la tierra."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 125,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El Señor ha estado grande con nosotros, y estamos alegres."
+        },
+        {
+          "libro": "Heb",
+          "capitulo": 5,
+          "versiculo_inicio": "1",
+          "versiculo_final": "6",
+          "frase": "Tú eres sacerdote eterno según el rito de Melquisedec."
+        },
+        {
+          "libro": "Mc",
+          "capitulo": 10,
+          "versiculo_inicio": "46",
+          "versiculo_final": "52",
+          "frase": "Maestro, haz que pueda ver."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-27": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 8,
+          "versiculo_inicio": "12",
+          "versiculo_final": "17",
+          "frase": "Cuantos se dejan llevar por el Espíritu de Dios, esos son hijos de Dios."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 67,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Que Dios tenga piedad y nos bendiga."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 13,
+          "versiculo_inicio": "10",
+          "versiculo_final": "17",
+          "frase": "¿No era necesario soltar a esta hija de Abraham aunque sea sábado?"
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-28": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "rojo",
+      "lecturas": [
+        {
+          "libro": "Ef",
+          "capitulo": 2,
+          "versiculo_inicio": "19",
+          "versiculo_final": "22",
+          "frase": "Sois miembros de la familia de Dios, edificados sobre el cimiento de los apóstoles."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 18,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "A toda la tierra alcanza su pregón."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 6,
+          "versiculo_inicio": "12",
+          "versiculo_final": "19",
+          "frase": "Escogió de entre sus discípulos a doce y los nombró apóstoles."
+        }
+      ],
+      "santo_celebracion": "Santos Simón y Judas, apóstoles",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-29": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 8,
+          "versiculo_inicio": "18",
+          "versiculo_final": "25",
+          "frase": "La creación espera la revelación de los hijos de Dios."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 125,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El Señor ha estado grande con nosotros, y estamos alegres."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 13,
+          "versiculo_inicio": "18",
+          "versiculo_final": "21",
+          "frase": "El grano de mostaza se hizo un arbusto y las aves anidaron en sus ramas."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-30": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 8,
+          "versiculo_inicio": "31b",
+          "versiculo_final": "39",
+          "frase": "Nada podrá apartarnos del amor de Dios, manifestado en Cristo Jesús."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 108,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Mi corazón está firme, Dios mío."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 13,
+          "versiculo_inicio": "31",
+          "versiculo_final": "35",
+          "frase": "No conviene que un profeta muera fuera de Jerusalén."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-10-31": {
+      "tiempo_liturgico": "Tiempo Ordinario",
+      "color": "verde",
+      "lecturas": [
+        {
+          "libro": "Rom",
+          "capitulo": 9,
+          "versiculo_inicio": "1",
+          "versiculo_final": "5",
+          "frase": "Desearía ser un proscrito por Cristo en favor de mis hermanos."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 147,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Glorifica al Señor, Jerusalén."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 14,
+          "versiculo_inicio": "1",
+          "versiculo_final": "6",
+          "frase": "Si a vosotros se os cae un hijo o un buey en un pozo, ¿no lo sacáis aunque sea sábado?"
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  }
+]
