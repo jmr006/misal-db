@@ -405,6 +405,410 @@
   },
   {
     "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "rojo",
+    "lecturas": [
+      {
+        "libro": "Num",
+        "capitulo": 21,
+        "versiculo_inicio": 4,
+        "versiculo_final": 9,
+        "frase": "Miraban a la serpiente de bronce y quedaban curados."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 77,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "No olvidéis las acciones del Señor."
+      },
+      {
+        "libro": "Flp",
+        "capitulo": 2,
+        "versiculo_inicio": 6,
+        "versiculo_final": 11,
+        "frase": "Se rebajó, por eso Dios lo levantó sobre todo."
+      },
+      {
+        "libro": "Jn",
+        "capitulo": 3,
+        "versiculo_inicio": 13,
+        "versiculo_final": 17,
+        "frase": "Tanto amó Dios al mundo, que entregó a su Hijo."
+      }
+    ],
+    "santo_celebracion": "Exaltación de la Santa Cruz",
+    "evento_especial": true,
+    "detalle_evento_especial": "Fiesta. El poder salvador de la cruz de Cristo se manifiesta y se adora; la cruz es signo de redención y de esperanza para todos los fieles."
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "blanco",
+    "lecturas": [
+      {
+        "libro": "Heb",
+        "capitulo": 5,
+        "versiculo_inicio": 7,
+        "versiculo_final": 9,
+        "frase": "Aprendió, sufriendo, a obedecer y es causa de salvación eterna."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 30,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "Sálvame, Señor, por tu misericordia."
+      },
+      {
+        "libro": "Jn",
+        "capitulo": 19,
+        "versiculo_inicio": 25,
+        "versiculo_final": 27,
+        "frase": "¡Ahí tienes a tu hijo! ¡Ahí tienes a tu madre!"
+      }
+    ],
+    "santo_celebracion": "Nuestra Señora la Virgen de los Dolores",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "1Tim",
+        "capitulo": 3,
+        "versiculo_inicio": 1,
+        "versiculo_final": 13,
+        "frase": "El obispo ha de ser irreprensible; los diáconos han de conservar la fe con conciencia limpia."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 100,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "Andamos alegres al encuentro del Señor."
+      },
+      {
+        "libro": "Lc",
+        "capitulo": 7,
+        "versiculo_inicio": 11,
+        "versiculo_final": 17,
+        "frase": "¡Muchacho, a ti te lo digo, levántate!"
+      }
+    ],
+    "santo_celebracion": "San Cornelio, papa, y san Cipriano, obispo, mártires",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "1Tim",
+        "capitulo": 3,
+        "versiculo_inicio": 14,
+        "versiculo_final": 16,
+        "frase": "Grande es el misterio de nuestra religión."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 110,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "Grandes son las obras del Señor."
+      },
+      {
+        "libro": "Lc",
+        "capitulo": 7,
+        "versiculo_inicio": 31,
+        "versiculo_final": 35,
+        "frase": "Tocamos para vosotros, y no bailasteis."
+      }
+    ],
+    "santo_celebracion": "San Roberto Belarmino, obispo y doctor de la Iglesia",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "1Tim",
+        "capitulo": 4,
+        "versiculo_inicio": 12,
+        "versiculo_final": 16,
+        "frase": "Sé ejemplo de los fieles en el hablar, en la conducta, en el amor."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 110,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "Grandes son las obras del Señor."
+      },
+      {
+        "libro": "Lc",
+        "capitulo": 7,
+        "versiculo_inicio": 36,
+        "versiculo_final": 50,
+        "frase": "Sus muchos pecados quedan perdonados, porque tiene mucho amor."
+      }
+    ],
+    "santo_celebracion": "",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "1Tim",
+        "capitulo": 6,
+        "versiculo_inicio": 2,
+        "versiculo_final": 12,
+        "frase": "Tú, hombre de Dios, practica la justicia, la piedad, la fe, el amor, la paciencia, la mansedumbre."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 48,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "Bienaventurados los pobres en el espíritu."
+      },
+      {
+        "libro": "Lc",
+        "capitulo": 8,
+        "versiculo_inicio": 1,
+        "versiculo_final": 3,
+        "frase": "Algunas mujeres acompañaban a Jesús y les servían con sus bienes."
+      }
+    ],
+    "santo_celebracion": "San Jenaro, obispo y mártir",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "1Tim",
+        "capitulo": 6,
+        "versiculo_inicio": 13,
+        "versiculo_final": 16,
+        "frase": "Guarda el mandato hasta la venida de nuestro Señor Jesucristo."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 99,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "El Señor es nuestro Dios y nosotros su pueblo."
+      },
+      {
+        "libro": "Lc",
+        "capitulo": 8,
+        "versiculo_inicio": 4,
+        "versiculo_final": 15,
+        "frase": "Los de la tierra buena son los que escuchan la Palabra, la abrazan y dan fruto con perseverancia."
+      }
+    ],
+    "santo_celebracion": "Santos Andrés Kim Taegon, presbítero, y Pablo Chong Hasang y compañeros, mártires",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "Sab",
+        "capitulo": 2,
+        "versiculo_inicio": 12,
+        "versiculo_final": 20,
+        "frase": "Lo condenaremos a muerte ignominiosa."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 53,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "El Señor sostiene mi vida."
+      },
+      {
+        "libro": "Sant",
+        "capitulo": 3,
+        "versiculo_inicio": 16,
+        "versiculo_final": 3,
+        "frase": "El fruto de la justicia se siembra en paz para quienes trabajan por la paz."
+      },
+      {
+        "libro": "Mc",
+        "capitulo": 9,
+        "versiculo_inicio": 30,
+        "versiculo_final": 37,
+        "frase": "El Hijo del Hombre va a ser entregado. Quien quiera ser el primero, que sea el servidor de todos."
+      }
+    ],
+    "santo_celebracion": "",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "Esd",
+        "capitulo": 1,
+        "versiculo_inicio": 1,
+        "versiculo_final": 6,
+        "frase": "Todo los que pertenecían al pueblo de Dios, que suban a Jerusalén y reconstruyan el templo del Señor."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 125,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "El Señor ha estado grande con nosotros."
+      },
+      {
+        "libro": "Lc",
+        "capitulo": 8,
+        "versiculo_inicio": 16,
+        "versiculo_final": 18,
+        "frase": "El que tiene, se le dará; y al que no tiene, hasta lo que cree tener se le quitará."
+      }
+    ],
+    "santo_celebracion": "",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "Esd",
+        "capitulo": 6,
+        "versiculo_inicio": 7,
+        "versiculo_final": 8,
+        "frase": "El rey Darío dio orden de que dejaran trabajar al pueblo."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 122,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "Qué alegría cuando me dijeron: «Vamos a la casa del Señor»."
+      },
+      {
+        "libro": "Lc",
+        "capitulo": 8,
+        "versiculo_inicio": 19,
+        "versiculo_final": 21,
+        "frase": "Mi madre y mis hermanos son estos: los que escuchan la palabra de Dios y la cumplen."
+      }
+    ],
+    "santo_celebracion": "San Pío de Pietrelcina, presbítero",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "Esd",
+        "capitulo": 9,
+        "versiculo_inicio": 5,
+        "versiculo_final": 9,
+        "frase": "Nos has dejado un resto."
+      },
+      {
+        "libro": "Tb",
+        "capitulo": 13,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "Bendito sea Dios, que vive eternamente."
+      },
+      {
+        "libro": "Lc",
+        "capitulo": 9,
+        "versiculo_inicio": 1,
+        "versiculo_final": 6,
+        "frase": "Los envió a proclamar el reino de Dios y a curar a los enfermos."
+      }
+    ],
+    "santo_celebracion": "Nuestra Señora de la Merced",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "Ag",
+        "capitulo": 1,
+        "versiculo_inicio": 1,
+        "versiculo_final": 8,
+        "frase": "Subid al monte, traed madera y reconstruid la casa."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 149,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "El Señor ama a su pueblo."
+      },
+      {
+        "libro": "Lc",
+        "capitulo": 9,
+        "versiculo_inicio": 7,
+        "versiculo_final": 9,
+        "frase": "¿Quién es este de quien oigo semejantes cosas?"
+      }
+    ],
+    "santo_celebracion": "",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
+    "color": "verde",
+    "lecturas": [
+      {
+        "libro": "Ag",
+        "capitulo": 2,
+        "versiculo_inicio": 1,
+        "versiculo_final": 9,
+        "frase": "Dentro de poco llenaré de gloria este templo."
+      },
+      {
+        "libro": "Sal",
+        "capitulo": 42,
+        "versiculo_inicio": null,
+        "versiculo_final": null,
+        "frase": "Espero en Dios, mi salvador."
+      },
+      {
+        "libro": "Lc",
+        "capitulo": 9,
+        "versiculo_inicio": 18,
+        "versiculo_final": 22,
+        "frase": "El Hijo del Hombre tiene que padecer mucho."
+      }
+    ],
+    "santo_celebracion": "Santos Cosme y Damián, mártires",
+    "evento_especial": false,
+    "detalle_evento_especial": ""
+  },
+  {
+    "tiempo_liturgico": "Tiempo Ordinario",
     "color": "blanco",
     "lecturas": [
       {
