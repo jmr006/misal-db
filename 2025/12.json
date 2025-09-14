@@ -1,0 +1,1029 @@
+[
+  {
+    "2025-12-01": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 2,
+          "versiculo_inicio": "1",
+          "versiculo_final": "5",
+          "frase": "El Señor reúne a todas las naciones en la paz eterna del Reino de Dios."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 121,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Vamos alegres a la casa del Señor."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 8,
+          "versiculo_inicio": "5",
+          "versiculo_final": "11",
+          "frase": "Vendrán muchos de oriente y occidente al Reino de los cielos."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-02": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 11,
+          "versiculo_inicio": "1",
+          "versiculo_final": "10",
+          "frase": "Brotará un renuevo del tronco de Jesé."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 71,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Que en sus días florezca la justicia."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 10,
+          "versiculo_inicio": "21",
+          "versiculo_final": "24",
+          "frase": "Jesús se llenó de alegría en el Espíritu Santo."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-03": {
+      "tiempo_liturgico": "Adviento",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 25,
+          "versiculo_inicio": "6",
+          "versiculo_final": "10a",
+          "frase": "El Señor preparará un festín y enjugará las lágrimas de todos los rostros."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 22,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Habitaré en la casa del Señor por años sin término."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 15,
+          "versiculo_inicio": "29",
+          "versiculo_final": "37",
+          "frase": "Jesús cura a muchos y multiplica los panes y los peces."
+        }
+      ],
+      "santo_celebracion": "San Francisco Javier, presbítero",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-04": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 26,
+          "versiculo_inicio": "1",
+          "versiculo_final": "6",
+          "frase": "Que entre la gente justa, que se mantiene fiel."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 117,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Bendito el que viene en nombre del Señor."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 7,
+          "versiculo_inicio": "21",
+          "versiculo_final": "27",
+          "frase": "El que cumple la voluntad de mi Padre entrará en el reino de los cielos."
+        }
+      ],
+      "santo_celebracion": "San Juan Damasceno, presbítero y doctor de la Iglesia",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-05": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 29,
+          "versiculo_inicio": "17",
+          "versiculo_final": "24",
+          "frase": "En aquel día oirán los sordos las palabras del libro, y los ciegos verán."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 26,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El Señor es mi luz y mi salvación."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 9,
+          "versiculo_inicio": "27",
+          "versiculo_final": "31",
+          "frase": "Jesús cura a dos ciegos que le piden compasión."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-06": {
+      "tiempo_liturgico": "Adviento",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 30,
+          "versiculo_inicio": "19",
+          "versiculo_final": "21.23-26",
+          "frase": "El Señor se apiadará de ti al oír tu gemido; tus ojos verán a tu Maestro."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 146,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Dichosos los que esperan en el Señor."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 9,
+          "versiculo_inicio": "35",
+          "versiculo_final": "10,1.6-8",
+          "frase": "Al ver a las multitudes, Jesús se compadeció de ellas."
+        }
+      ],
+      "santo_celebracion": "San Nicolás, obispo",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-07": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 40,
+          "versiculo_inicio": "1",
+          "versiculo_final": "5.9-11",
+          "frase": "Preparad el camino al Señor."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 84,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Muéstranos, Señor, tu misericordia y danos tu salvación."
+        },
+        {
+          "libro": "2Pe",
+          "capitulo": 3,
+          "versiculo_inicio": "8",
+          "versiculo_final": "14",
+          "frase": "Esperamos un cielo nuevo y una tierra nueva."
+        },
+        {
+          "libro": "Mc",
+          "capitulo": 1,
+          "versiculo_inicio": "1",
+          "versiculo_final": "8",
+          "frase": "Enderezad los senderos del Señor."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-08": {
+      "tiempo_liturgico": "Adviento",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Gn",
+          "capitulo": 3,
+          "versiculo_inicio": "9",
+          "versiculo_final": "15.20",
+          "frase": "Establezco hostilidades entre ti y la mujer, entre tu descendencia y su descendencia."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 97,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Cantad al Señor un cántico nuevo, porque ha hecho maravillas."
+        },
+        {
+          "libro": "Ef",
+          "capitulo": 1,
+          "versiculo_inicio": "3",
+          "versiculo_final": "6.11-12",
+          "frase": "Dios nos eligió en Cristo antes de la creación del mundo."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 1,
+          "versiculo_inicio": "26",
+          "versiculo_final": "38",
+          "frase": "Alégrate, llena de gracia, el Señor está contigo."
+        }
+      ],
+      "santo_celebracion": "Inmaculada Concepción de la Virgen María",
+      "evento_especial": true,
+      "detalle_evento_especial": "Solemnidad de la Inmaculada Concepción."
+    }
+  },
+  {
+    "2025-12-09": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 35,
+          "versiculo_inicio": "1",
+          "versiculo_final": "10",
+          "frase": "Se despegarán los ojos de los ciegos y los oídos de los sordos se abrirán."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 84,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Nuestro Dios viene y nos salvará."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 5,
+          "versiculo_inicio": "17",
+          "versiculo_final": "26",
+          "frase": "Hoy hemos visto cosas admirables."
+        }
+      ],
+      "santo_celebracion": "San Juan Diego Cuauhtlatoatzin",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-10": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 40,
+          "versiculo_inicio": "25",
+          "versiculo_final": "31",
+          "frase": "El Señor da fuerzas al cansado."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 102,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Bendice, alma mía, al Señor."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 11,
+          "versiculo_inicio": "28",
+          "versiculo_final": "30",
+          "frase": "Venid a mí todos los que estáis cansados y agobiados."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-11": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 41,
+          "versiculo_inicio": "13",
+          "versiculo_final": "20",
+          "frase": "Yo, el Señor, soy tu redentor, el Santo de Israel."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 144,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El Señor es clemente y misericordioso, lento a la ira y rico en piedad."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 11,
+          "versiculo_inicio": "11",
+          "versiculo_final": "15",
+          "frase": "No ha nacido de mujer uno más grande que Juan el Bautista."
+        }
+      ],
+      "santo_celebracion": "San Dámaso I, papa",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-12": {
+      "tiempo_liturgico": "Adviento",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Ap",
+          "capitulo": 11",
+          "versiculo_inicio": "19a;12,1-6a.10ab",
+          "versiculo_final": "19a;12,1-6a.10ab",
+          "frase": "Apareció una mujer vestida de sol, la luna bajo sus pies."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 44,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "De pie a tu derecha está la reina, enjoyada con oro de Ofir."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 1,
+          "versiculo_inicio": "39",
+          "versiculo_final": "47",
+          "frase": "María se puso en camino y fue aprisa a la montaña."
+        }
+      ],
+      "santo_celebracion": "Nuestra Señora de Guadalupe",
+      "evento_especial": true,
+      "detalle_evento_especial": "Fiesta de la Virgen de Guadalupe, patrona de América Latina."
+    }
+  },
+  {
+    "2025-12-13": {
+      "tiempo_liturgico": "Adviento",
+      "color": "rojo",
+      "lecturas": [
+        {
+          "libro": "Eclo",
+          "capitulo": 48,
+          "versiculo_inicio": "1-4.9-11",
+          "versiculo_final": "1-4.9-11",
+          "frase": "Elías fue arrebatado en un torbellino de fuego."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 79,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Oh Dios, restáuranos, que brille tu rostro y nos salve."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 17,
+          "versiculo_inicio": "10",
+          "versiculo_final": "13",
+          "frase": "Elías ya ha venido y no lo reconocieron."
+        }
+      ],
+      "santo_celebracion": "Santa Lucía, virgen y mártir",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-14": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 61,
+          "versiculo_inicio": "1-2a.10-11",
+          "versiculo_final": "1-2a.10-11",
+          "frase": "Desbordo de gozo con el Señor."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 1,
+          "versiculo_inicio": "46-48.49-50.53-54",
+          "versiculo_final": "46-48.49-50.53-54",
+          "frase": "Me alegro con mi Dios."
+        },
+        {
+          "libro": "1Tes",
+          "capitulo": 5,
+          "versiculo_inicio": "16-24",
+          "versiculo_final": "16-24",
+          "frase": "Que vuestro espíritu, alma y cuerpo permanezcan sin mancha hasta la venida del Señor."
+        },
+        {
+          "libro": "Jn",
+          "capitulo": 1,
+          "versiculo_inicio": "6-8.19-28",
+          "versiculo_final": "6-8.19-28",
+          "frase": "En medio de vosotros hay uno que no conocéis."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-15": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Nm",
+          "capitulo": 24,
+          "versiculo_inicio": "2-7.15-17a",
+          "versiculo_final": "2-7.15-17a",
+          "frase": "De Jacob avanza una estrella."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 24,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Señor, enséñame tus caminos."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 21,
+          "versiculo_inicio": "23-27",
+          "versiculo_final": "23-27",
+          "frase": "¿Con qué autoridad haces esto?"
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-16": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "So",
+          "capitulo": 3,
+          "versiculo_inicio": "1-2.9-13",
+          "versiculo_final": "1-2.9-13",
+          "frase": "El Señor traerá la salvación a los humildes."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 33,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "El afligido invocó al Señor, y él lo escuchó."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 21,
+          "versiculo_inicio": "28-32",
+          "versiculo_final": "28-32",
+          "frase": "Los publicanos y las prostitutas os llevan la delantera en el reino de Dios."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-17": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Gn",
+          "capitulo": 49,
+          "versiculo_inicio": "1-2.8-10",
+          "versiculo_final": "1-2.8-10",
+          "frase": "No se apartará de Judá el cetro."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 71,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Que en sus días florezca la justicia."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 1,
+          "versiculo_inicio": "1-17",
+          "versiculo_final": "1-17",
+          "frase": "Genealogía de Jesucristo, hijo de David."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-18": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Jr",
+          "capitulo": 23,
+          "versiculo_inicio": "5-8",
+          "versiculo_final": "5-8",
+          "frase": "Suscitaré a David un vástago legítimo."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 71,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "En sus días florezca la justicia y la paz abunde eternamente."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 1,
+          "versiculo_inicio": "18-24",
+          "versiculo_final": "18-24",
+          "frase": "Jesús nacerá de María, desposada con José, hijo de David."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-19": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Jc",
+          "capitulo": 13,
+          "versiculo_inicio": "2-7.24-25a",
+          "versiculo_final": "2-7.24-25a",
+          "frase": "El nacimiento de Sansón es anunciado por el ángel."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 70,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Llena está mi boca de tu alabanza y de tu gloria todo el día."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 1,
+          "versiculo_inicio": "5-25",
+          "versiculo_final": "5-25",
+          "frase": "El ángel anuncia a Zacarías el nacimiento de Juan Bautista."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-20": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 7,
+          "versiculo_inicio": "10-14",
+          "versiculo_final": "10-14",
+          "frase": "Mirad: la Virgen está encinta."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 23,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Va a entrar el Señor, él es el Rey de la gloria."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 1,
+          "versiculo_inicio": "26-38",
+          "versiculo_final": "26-38",
+          "frase": "Concebirás en tu vientre y darás a luz un hijo."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-21": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Mi",
+          "capitulo": 5,
+          "versiculo_inicio": "1-4a",
+          "versiculo_final": "1-4a",
+          "frase": "De ti saldrá el que ha de gobernar Israel."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 79,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Oh Dios, restáuranos, que brille tu rostro y nos salve."
+        },
+        {
+          "libro": "Heb",
+          "capitulo": 10,
+          "versiculo_inicio": "5-10",
+          "versiculo_final": "5-10",
+          "frase": "Aquí estoy, oh Dios, para hacer tu voluntad."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 1,
+          "versiculo_inicio": "39-45",
+          "versiculo_final": "39-45",
+          "frase": "¿Quién soy yo para que me visite la madre de mi Señor?"
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": true,
+      "detalle_evento_especial": "Domingo IV de Adviento"
+    }
+  },
+  {
+    "2025-12-22": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "1Sam",
+          "capitulo": 1,
+          "versiculo_inicio": "24-28",
+          "versiculo_final": "24-28",
+          "frase": "Ana ofrece a Samuel en el templo del Señor."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": "1Sam 2",
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Mi corazón se regocija en el Señor, mi Salvador."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 1,
+          "versiculo_inicio": "46-56",
+          "versiculo_final": "46-56",
+          "frase": "Proclama mi alma la grandeza del Señor."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-23": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "Ml",
+          "capitulo": 3,
+          "versiculo_inicio": "1-4.23-24",
+          "versiculo_final": "1-4.23-24",
+          "frase": "Os enviaré al profeta Elías antes de que llegue el día del Señor."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 24,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Levantad los ojos, llega el Rey de la gloria."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 1,
+          "versiculo_inicio": "57-66",
+          "versiculo_final": "57-66",
+          "frase": "Juan es su nombre."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-24": {
+      "tiempo_liturgico": "Adviento",
+      "color": "morado",
+      "lecturas": [
+        {
+          "libro": "2Sam",
+          "capitulo": 7,
+          "versiculo_inicio": "1-5.8b-12.14a.16",
+          "versiculo_final": "1-5.8b-12.14a.16",
+          "frase": "El trono de David será estable para siempre."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 88,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Cantaré eternamente las misericordias del Señor."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 1,
+          "versiculo_inicio": "67-79",
+          "versiculo_final": "67-79",
+          "frase": "Nos visitará el sol que nace de lo alto."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-25": {
+      "tiempo_liturgico": "Navidad",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Is",
+          "capitulo": 52,
+          "versiculo_inicio": "7-10",
+          "versiculo_final": "7-10",
+          "frase": "Todos los confines de la tierra verán la salvación de nuestro Dios."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 97,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Los confines de la tierra han contemplado la victoria de nuestro Dios."
+        },
+        {
+          "libro": "Heb",
+          "capitulo": 1,
+          "versiculo_inicio": "1-6",
+          "versiculo_final": "1-6",
+          "frase": "En estos últimos tiempos nos ha hablado por el Hijo."
+        },
+        {
+          "libro": "Jn",
+          "capitulo": 1,
+          "versiculo_inicio": "1-18",
+          "versiculo_final": "1-18",
+          "frase": "La Palabra se hizo carne y habitó entre nosotros."
+        }
+      ],
+      "santo_celebracion": "Natividad del Señor",
+      "evento_especial": true,
+      "detalle_evento_especial": "Navidad. Solemnidad."
+    }
+  },
+  {
+    "2025-12-26": {
+      "tiempo_liturgico": "Navidad",
+      "color": "rojo",
+      "lecturas": [
+        {
+          "libro": "Hch",
+          "capitulo": 6,
+          "versiculo_inicio": "8-10",
+          "versiculo_final": "8-10",
+          "frase": "Esteban, lleno de gracia y de poder, hacía prodigios y grandes señales."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 30,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "En tus manos, Señor, encomiendo mi espíritu."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 10,
+          "versiculo_inicio": "17-22",
+          "versiculo_final": "17-22",
+          "frase": "No seréis vosotros los que habléis, el Espíritu de vuestro Padre hablará por vosotros."
+        }
+      ],
+      "santo_celebracion": "San Esteban, protomártir",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-27": {
+      "tiempo_liturgico": "Navidad",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "1Jn",
+          "capitulo": 1,
+          "versiculo_inicio": "1-4",
+          "versiculo_final": "1-4",
+          "frase": "Lo que hemos visto y oído os lo anunciamos."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 96,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Alegraos, justos, con el Señor."
+        },
+        {
+          "libro": "Jn",
+          "capitulo": 20,
+          "versiculo_inicio": "2-8",
+          "versiculo_final": "2-8",
+          "frase": "Vio y creyó."
+        }
+      ],
+      "santo_celebracion": "San Juan, apóstol y evangelista",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-28": {
+      "tiempo_liturgico": "Navidad",
+      "color": "rojo",
+      "lecturas": [
+        {
+          "libro": "1Jn",
+          "capitulo": 1,
+          "versiculo_inicio": "5-2,2",
+          "versiculo_final": "5-2,2",
+          "frase": "La sangre de Jesús nos limpia de todo pecado."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 123,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Hemos salvado la vida como un pájaro de la trampa del cazador."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 2,
+          "versiculo_inicio": "13-18",
+          "versiculo_final": "13-18",
+          "frase": "Herodes mandó matar a todos los niños menores de dos años en Belén."
+        }
+      ],
+      "santo_celebracion": "Santos Inocentes, mártires",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-29": {
+      "tiempo_liturgico": "Navidad",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "1Jn",
+          "capitulo": 2,
+          "versiculo_inicio": "3-11",
+          "versiculo_final": "3-11",
+          "frase": "Quien ama a su hermano permanece en la luz."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 95,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Alégrese el cielo, goce la tierra."
+        },
+        {
+          "libro": "Lc",
+          "capitulo": 2,
+          "versiculo_inicio": "22-35",
+          "versiculo_final": "22-35",
+          "frase": "Luz para alumbrar a las naciones y gloria de tu pueblo, Israel."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  },
+  {
+    "2025-12-30": {
+      "tiempo_liturgico": "Navidad",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "Sir",
+          "capitulo": 3,
+          "versiculo_inicio": "2-6.12-14",
+          "versiculo_final": "2-6.12-14",
+          "frase": "El que teme al Señor honra a sus padres."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 127,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Dichosos los que temen al Señor y siguen sus caminos."
+        },
+        {
+          "libro": "Mt",
+          "capitulo": 2,
+          "versiculo_inicio": "13-15.19-23",
+          "versiculo_final": "13-15.19-23",
+          "frase": "Coge al niño y a su madre y huye a Egipto."
+        }
+      ],
+      "santo_celebracion": "Sagrada Familia de Jesús, María y José",
+      "evento_especial": true,
+      "detalle_evento_especial": "Fiesta de la Sagrada Familia"
+    }
+  },
+  {
+    "2025-12-31": {
+      "tiempo_liturgico": "Navidad",
+      "color": "blanco",
+      "lecturas": [
+        {
+          "libro": "1Jn",
+          "capitulo": 2,
+          "versiculo_inicio": "18-21",
+          "versiculo_final": "18-21",
+          "frase": "Tenéis la unción del Santo y todos poseéis el conocimiento."
+        },
+        {
+          "libro": "Sal",
+          "capitulo": 95,
+          "versiculo_inicio": null,
+          "versiculo_final": null,
+          "frase": "Alégrese el cielo, goce la tierra."
+        },
+        {
+          "libro": "Jn",
+          "capitulo": 1,
+          "versiculo_inicio": "1-18",
+          "versiculo_final": "1-18",
+          "frase": "La Palabra se hizo carne y habitó entre nosotros."
+        }
+      ],
+      "santo_celebracion": "",
+      "evento_especial": false,
+      "detalle_evento_especial": ""
+    }
+  }
+]
